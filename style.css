@@ -1,6 +1,3 @@
-body{
-    background-image: url("img1.jpg");
-}
 
 .heading
 {
@@ -42,4 +39,3 @@ canvas
       border-radius: 20px;
       box-shadow:  5px 5px 5px white;
   }
-
